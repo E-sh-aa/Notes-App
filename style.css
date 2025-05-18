@@ -1,0 +1,34 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background: whitesmoke;
+    padding: 40px;
+}
+.notesApp{
+    background: white;
+    padding: 30px;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+input{
+    width: 200px;
+    padding: 10px;
+    margin-right: 10px;
+}
+button{
+    padding: 10px;
+    margin-top: 10px;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+li{
+    margin-top: 10px;
+    background: #e8e8e8;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
